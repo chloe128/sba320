@@ -1,3 +1,32 @@
+# Movie Night Planner
+
+## Description
+
+A React application to search movies using the OMDb API and plan movie nights by managing a watchlist.
+
+## Technologies Used
+
+- React
+- Redux Toolkit
+- Axios
+- Material-UI
+- OMDb API
+
+## Features
+
+- Search for movies and view details.
+- Add movies to a personal watchlist.
+- Remove movies from the watchlist.
+
+## Live Site
+
+[Visit Movie Night Planner](#)
+
+## Usage Instructions
+
+1. Enter a movie title in the search bar and click "Search".
+2. Browse the results and add movies to your watchlist.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
